@@ -1,0 +1,9 @@
+Building ObiCoin
+
+See doc/readme-qt.rst for instructions on building obicoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ObiCoin.
+
+See doc/build-*.txt for instructions on building obicoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of ObiCoin.
